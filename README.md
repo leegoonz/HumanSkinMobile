@@ -1,12 +1,12 @@
 # HumanSkinMobile
-## Blinn-Phong based Skin shader for mobile.
-## Stable support to opengl -es 2.0 and higher.
+### Blinn-Phong based Skin shader for mobile.
+### Stable support to opengl -es 2.0 and higher.
  
 ## Definition of the requirement from art team.
-### Soft and Clean skin effect.
-### Oil specular effect.
-### Rim light effect.
-### Back lighting effect with translucency skin effect.
+### 1. Soft and Clean skin effect.
+### 2. Oil specular effect.
+### 3. Rim light effect.
+### 4. Back lighting effect with translucency skin effect.
  
 ## Desired objects of implementaiton.
 ### 1. Blurred normal technique for clean skin effect.
